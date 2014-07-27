@@ -8,12 +8,8 @@
     <div class="container content">
       <div class="masthead">
         <h3 class="masthead-title">
-          <a href="/" title="Home">{{ site.title }}</a>
-
-          {% for page in site.pages_list %}
-            &nbsp;&nbsp;&nbsp;
-            <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
-          {% endfor %}
+          <div style="float:left; position:relative; left:70px"><img src="/assets/AppIcon.png" height="70" width="70"></div>
+          <div style="float:left; position:relative; top:20px; left:90px"> {{ site.title }} </div>
         </h3>
       </div>
 

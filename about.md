@@ -11,5 +11,3 @@ instead of text.<br>
 [@taptoneapp](https://twitter.com/taptoneapp)
 
 
-
-

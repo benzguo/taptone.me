@@ -1,7 +1,15 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
-<div class="page">
-  {{ content }}
-</div>
+  {% include head.html %}
+  <br>
+
+  <div class="page" style="text-align: center">
+    {{ content }}
+  </div>
+
+  <div class="footer" style="text-align: center">
+      <a href="/">Home</a> · <a href="http://www.jsbchorales.net/">Download</a>
+  </div>
+
+</html>

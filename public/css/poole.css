@@ -338,6 +338,15 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 4em;
 }
 
+.detail {
+  display: block;
+  font-size: 16px;
+  font-weight: 250;
+  margin-left: 300;
+  margin-right: 30;
+  margin-bottom: 4em;  
+}
+
 /* Blog post or page title */
 .page-title,
 .post-title,

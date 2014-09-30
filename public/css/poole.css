@@ -343,8 +343,8 @@ tbody tr:nth-child(odd) th {
   text-align: left; 
   width: 320px;
   margin: 0 auto;
-  margin-left: 30px;
-  margin-right: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .detail {
